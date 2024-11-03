@@ -1,0 +1,5 @@
+videojs('panorama', {
+  plugins: {
+      pannellum: {}
+  }
+});
